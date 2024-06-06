@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PoniesApplication<ponies>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "be.ucll.PoniesApplication",
+            "projectName": "ponies",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
